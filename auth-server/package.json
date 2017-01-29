@@ -22,7 +22,6 @@
   },
   "dependencies": {
     "@types/jasmine": "^2.5.41",
-    "@types/node": "^7.0.4",
     "@types/winston": "^2.2.0"
   }
 }
